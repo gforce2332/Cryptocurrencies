@@ -3,13 +3,13 @@
 
 ## Resources
 - Datasets: 
-  * crypto_data.csv retrieved from CryptoCompare
+  - crypto_data.csv retrieved from CryptoCompare
  
--  Software Used:
-  * Python
-  * Jupyter Notebook
-  * Sklearn, pandas and hvplot libraries
-  * Unsupervised Machine Learning
+- Software Used:
+  - Python
+  - Jupyter Notebook
+  - Sklearn, pandas and hvplot libraries
+  - Unsupervised Machine Learning
   
 ## Overview
 
