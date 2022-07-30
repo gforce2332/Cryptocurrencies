@@ -32,6 +32,7 @@ Hvplot Table
 
 
 
+
 2D Scatter Plot
 
 ![hvplot](https://user-images.githubusercontent.com/98711219/181870880-e24fd2b3-2556-448e-b78e-7f846441530c.png)
